@@ -1,5 +1,11 @@
 # ai
 
+## 3.2.36
+
+### Patch Changes
+
+- cfa360a8: feat (ai/core): add telemetry support to embedMany function.
+
 ## 3.2.35
 
 ### Patch Changes
